@@ -1,7 +1,2 @@
-<a href="https://github.com/giopera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giopera&theme=dark&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/giopera">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=giopera&show_icons=true&theme=dark&line_height=27" alt="giopera's github stats"/>
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giopera&show_icons=true&theme=onedark)](https://github.com/giopera)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giopera&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
